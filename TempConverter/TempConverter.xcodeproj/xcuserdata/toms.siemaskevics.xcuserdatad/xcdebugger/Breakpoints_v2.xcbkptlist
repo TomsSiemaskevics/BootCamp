@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "784123D4-0366-4EA3-942F-F93DEDFB2426"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0236D7A0-2E82-4D37-81CE-726ADBD8F20C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempConverter/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0236D7A0-2E82-4D37-81CE-726ADBD8F20C - e9961f252c15edec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempConverter.ViewController.fahreinheitLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TempConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toms.siemaskevics/Documents/Bootcamp/TempConverter/TempConverter/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "0236D7A0-2E82-4D37-81CE-726ADBD8F20C - 490dc46ba403b018"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempConverter.ViewController.fahreinheitLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TempConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toms.siemaskevics/Documents/Bootcamp/TempConverter/TempConverter/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "0236D7A0-2E82-4D37-81CE-726ADBD8F20C - 14f6c3e45c23b2eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempConverter.ViewController.fahreinheitLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TempConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toms.siemaskevics/Documents/Bootcamp/TempConverter/TempConverter/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "0236D7A0-2E82-4D37-81CE-726ADBD8F20C - d82ebbc4cd185aa0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempConverter.ViewController.fahreinheitLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TempConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toms.siemaskevics/Documents/Bootcamp/TempConverter/TempConverter/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "0236D7A0-2E82-4D37-81CE-726ADBD8F20C - 79bd4d29fdd44d60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempConverter.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TempConverter.ViewController"
+                  moduleName = "TempConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toms.siemaskevics/Documents/Bootcamp/TempConverter/TempConverter/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "170">
+               </Location>
+               <Location
+                  uuid = "0236D7A0-2E82-4D37-81CE-726ADBD8F20C - d3bda363938d23a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempConverter.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TempConverter.ViewController&gt;"
+                  moduleName = "TempConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toms.siemaskevics/Documents/Bootcamp/TempConverter/TempConverter/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "127">
+               </Location>
+               <Location
+                  uuid = "0236D7A0-2E82-4D37-81CE-726ADBD8F20C - b108881e97d43a7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempConverter.ViewController.celsiusLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TempConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toms.siemaskevics/Documents/Bootcamp/TempConverter/TempConverter/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "0236D7A0-2E82-4D37-81CE-726ADBD8F20C - 79875ac2e72fde67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempConverter.ViewController.celsiusLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TempConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toms.siemaskevics/Documents/Bootcamp/TempConverter/TempConverter/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "0236D7A0-2E82-4D37-81CE-726ADBD8F20C - 6d8c80a389d70376"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempConverter.ViewController.celsiusLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TempConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toms.siemaskevics/Documents/Bootcamp/TempConverter/TempConverter/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "0236D7A0-2E82-4D37-81CE-726ADBD8F20C - feb96c432ec08b98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempConverter.ViewController.celsiusLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TempConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toms.siemaskevics/Documents/Bootcamp/TempConverter/TempConverter/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "0236D7A0-2E82-4D37-81CE-726ADBD8F20C - 79bd4d29fdd44d60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempConverter.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TempConverter.ViewController"
+                  moduleName = "TempConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toms.siemaskevics/Documents/Bootcamp/TempConverter/TempConverter/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "0236D7A0-2E82-4D37-81CE-726ADBD8F20C - d3bda363938d23a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempConverter.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TempConverter.ViewController&gt;"
+                  moduleName = "TempConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toms.siemaskevics/Documents/Bootcamp/TempConverter/TempConverter/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "137">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
